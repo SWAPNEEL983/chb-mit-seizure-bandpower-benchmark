@@ -1,0 +1,13 @@
+# Data files (not redistributed — see README for source)
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
